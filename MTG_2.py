@@ -109,7 +109,7 @@ def check_mail():
 
 
 # ----------------------------
-# Flask Web Server for Replit
+# Flask Web Server for Replit or any other sites that can host scripts
 # ----------------------------
 app = Flask('')
 
@@ -136,4 +136,4 @@ if __name__ == "__main__":
     start_server()
     while True:
         check_mail()
-        time.sleep(60)  # Check every 30 seconds
+        time.sleep(30)  # Check every 30 seconds

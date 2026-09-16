@@ -1,10 +1,9 @@
+# MTG
 
-
-// Manzil – manzilahsan8105@gmail.com
 
 The purpose of this python script is to check your email inbox and send you notifications on telegram about unread emails. I personally sometimes forget to check my mail notifications, and sometimes I don’t check because of all the clutter of newsletters and stuff. As a consequence, sometimes I miss vital emails. But I never miss telegram notifications. So this “mail to telegram” system was made. 
 
-Now, in order to implement this system, you have to take certain steps. 
+# Now, in order to implement this system, you have to take certain steps. 
 
 1. In your email(the one you want to use) settings, go to “Forwarding and POP/IMAP”, 
 enable IMAP (in most mails it's already enabled, but do check, just to be sure)
@@ -15,7 +14,7 @@ enable IMAP (in most mails it's already enabled, but do check, just to be sure)
 6. Now for the code part, just paste all the items and the info we have collected, paste them in the code, and we are good to go.
 
 
-There are three scripts here. 
+# There are three scripts here. 
 MTG 1: You can use the system using your device. Where your device needs to keep the script running for it to work 24/7. 
 MTG 2: This is for hosting it online
 MTG 3: This is for hosting it on pythonanywhere.com/, where you can run it once a day, at a specific time. This is the cost free version. 
